@@ -1,0 +1,27 @@
+body{
+    background: rgb(235, 167, 178);
+}
+h1{ 
+    text-aglin: center;
+    font-size: 40px;
+    color: rgb(240, 58, 88);
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+img{
+    width: 320px;
+    margin-left: 250px;
+}
+ul{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(214, 90, 110);
+}
+li{
+    text-align: center;
+    font-size: 30px;
+    color:rgb(228, 72, 163)
+} 
