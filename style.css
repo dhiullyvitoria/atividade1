@@ -25,3 +25,19 @@ li{
     font-size: 30px;
     color:rgb(228, 72, 163)
 } 
+.cabecalho{
+    background-color: black;
+    display: flex;
+}
+.listacabecalho{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 80px;
+}
+.itemlistacabecalho{
+    color: bisque;
+    padding-left: 20px;
+    text-transform: uppercase;
+    font-size: 25px;
+    list-style: none;
+}
